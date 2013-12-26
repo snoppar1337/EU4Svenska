@@ -9,7 +9,7 @@ Licens: I have uploaded the original english language files from Paradox. I don'
 Oki för lite info om "tvetydiga/svåröverasatta ord" för att vi skall göra det konsekvent:
 (detta är vad jag tycker änsålänge så kom gärna med förslag)
 
-attrition=??? hjälp mig här?
+attrition=??? hjälp mig här? utnötning kanske?
 
 vassal=vassal (eller borde det vara "lydstat"?)
 
